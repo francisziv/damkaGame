@@ -1,15 +1,19 @@
 ## Damka (Checkers) – Console Application
 
-A C# console-based Damka (Checkers) game. The project includes core game logic (board, moves, players, sessions) and a console UI. It can be opened with Visual Studio or built and run using the .NET CLI.
+A C# Damka (Checkers) game. The project includes core game logic (board, moves, players, sessions) and a console UI for playing locally. A separate demo video shows a graphical UI that uses the same backend logic.
 
-### 🎬 DamkaGame Demo
+### 🎬 UI Demo (Graphical)
+
+This video demonstrates a graphical UI built on top of this backend, showcasing how the game logic behaves in a visual interface:
+
 https://github.com/user-attachments/assets/3df10d41-273f-4de7-8e06-23ca2b145efe
 
 ### Features
 
 - Classic Damka rules with piece movement and captures
 - Turn management and game session handling
-- Console-based UI
+- Playable console UI
+- Graphical UI demo video that showcases the backend in action
 
 ### Project Structure
 
