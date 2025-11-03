@@ -3,7 +3,7 @@
 A C# console-based Damka (Checkers) game. The project includes core game logic (board, moves, players, sessions) and a console UI. It can be opened with Visual Studio or built and run using the .NET CLI.
 
 ### 🎬 DamkaGame Demo
-https://github.com/francisziv/DamkaGame/blob/main/DamkaGame-demo.mp4
+https://github.com/user-attachments/assets/3df10d41-273f-4de7-8e06-23ca2b145efe
 
 ### Features
 
